@@ -20,7 +20,8 @@ Some tips on making the best out of this directory:
 
 - Expand your connection via LinkedIn.
 - If you are to give an interview in a company look if any Nazrulians belong to that company and connect with them if you need.
-- CV review, Interview preparation ideas, and company FAQs are some basic help you get from this directory.
+- CV review, interview preparation tips, and company FAQs are some of the basic support you can receive from our seniors.
+
 
 ## Some rules and regulations to follow
 
@@ -36,7 +37,9 @@ As you deal with professionals you have to maintain some rules:
 Any Nazrulian from CSE department can contribute to enrich this directory. All you have to do is share this form with an Nazrulian professional who isn't listed here.
 form link: https://forms.gle/ziTJZvsTNjJPqBX89
 
+
 ## It would mean a lot to me if you could star this repository on GitHub
+
 
 ## List Of Professionals
 
