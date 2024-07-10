@@ -8,7 +8,7 @@ This directory is maintained by [Shahriar Hasnat Shafin Ahmed](https://www.linke
 
 ## Why this directory is initiated?
 
-This repo is initiated-
+This directory is initiated-
 
 - To help freshers by making their job-hunting period a bit more fluent.
 - To help current students in finding their senior professionals.
